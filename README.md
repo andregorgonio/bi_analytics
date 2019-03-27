@@ -33,4 +33,10 @@ Cada ferramenta listada no item acima possui um arquivo com o detalhamento de ca
 <li><a href="http://theacetecnologia.com.br/TheDocs/documentation/0004/onePageMonitoramento.html">003 :: Monitoramento</a></li>
 
 # Preparação do ambiente para utilização
-Com todos os softwares instalados e arquivos baixados
+
+Passo 1: Instalar todos os sistemas requisitados no item [Requisitos Necessários];
+Passo 2: Definir uma pasta local para armazenamento dos arquivos;
+Passo 3: Efetuar o download dos arquivos .xlsb e do Banco de Dados em .accdb;
+Passo 4: Todos os arquivos do Passo 3 devem ser armazenados na mesma pasta;
+Passo 5: Ao abrir os arquivos em .xlsb clicar na opção "Habilitar Conteúdo" e prosseguir com a utilização. Em caso de dúvidas acessar a documentação disponibilizadas no item acima;
+Passo 6: Após a utilização das ferramentas acessar o Power BI e alterar o caminho para acesso a Base de Dados em Access, conforme os caminhos que foram salvos os itens acima;
